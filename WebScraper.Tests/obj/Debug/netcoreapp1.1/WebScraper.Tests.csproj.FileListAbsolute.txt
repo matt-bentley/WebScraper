@@ -1,0 +1,14 @@
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.Tests.deps.json
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.Tests.runtimeconfig.json
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.Tests.runtimeconfig.dev.json
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.Tests.dll
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.Tests.pdb
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.dll
+C:\Repo\WebScraper\WebScraper.Tests\bin\Debug\netcoreapp1.1\WebScraper.pdb
+C:\Repo\WebScraper\WebScraper.Tests\obj\Debug\netcoreapp1.1\WebScraper.Tests.csprojResolveAssemblyReference.cache
+C:\Repo\WebScraper\WebScraper.Tests\obj\Debug\netcoreapp1.1\WebScraper.Tests.AssemblyInfo.cs
+C:\Repo\WebScraper\WebScraper.Tests\obj\Debug\netcoreapp1.1\WebScraper.Tests.dll
+C:\Repo\WebScraper\WebScraper.Tests\obj\Debug\netcoreapp1.1\WebScraper.Tests.pdb

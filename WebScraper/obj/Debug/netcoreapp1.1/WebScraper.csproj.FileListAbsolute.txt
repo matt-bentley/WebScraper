@@ -1,0 +1,9 @@
+C:\Repo\WebScraper\WebScraper\bin\Debug\netcoreapp1.1\WebScraper.deps.json
+C:\Repo\WebScraper\WebScraper\bin\Debug\netcoreapp1.1\WebScraper.runtimeconfig.json
+C:\Repo\WebScraper\WebScraper\bin\Debug\netcoreapp1.1\WebScraper.runtimeconfig.dev.json
+C:\Repo\WebScraper\WebScraper\bin\Debug\netcoreapp1.1\WebScraper.dll
+C:\Repo\WebScraper\WebScraper\obj\Debug\netcoreapp1.1\WebScraper.AssemblyInfo.cs
+C:\Repo\WebScraper\WebScraper\bin\Debug\netcoreapp1.1\WebScraper.pdb
+C:\Repo\WebScraper\WebScraper\obj\Debug\netcoreapp1.1\WebScraper.dll
+C:\Repo\WebScraper\WebScraper\obj\Debug\netcoreapp1.1\WebScraper.pdb
+C:\Repo\WebScraper\WebScraper\obj\Debug\netcoreapp1.1\WebScraper.csprojResolveAssemblyReference.cache
